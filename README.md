@@ -1,4 +1,4 @@
-# [![joydeep singha header](image\BlackTechnologyLinkedInBanner.png)]()
+# [![joydeep singha header](image/BlackTechnologyLinkedInBanner.png)]()
 
   ---
 Connect with me:
