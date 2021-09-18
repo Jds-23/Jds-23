@@ -1,6 +1,7 @@
 # [![joydeep singha header](image/BlackTechnologyLinkedInBanner.png)]()
 
-  ---
+---
+
 Connect with me:
 
 [![Git Logo](icon/twitter.png)](https://twitter.com/JoydeepSingha7)
@@ -9,18 +10,24 @@ Connect with me:
 
 Hello there 👋,
 
-I am an aspiring Front-end developer, I am currently pursuing BCA from The Heritage Academy.:mortar_board:
- 
-I have a passion for learning modern technology, building real-world apps and code.:iphone:
+I am an aspiring Front-end developer, Working in Web3.:mortar_board:
+
+I have a passion for learning modern technology(specially in blockchain & web3), building real-world apps and code.:iphone:
 
 Languages and Tools:
 
 ![Git Logo](icon/react.png)
+![Git Logo](icon/next.png)
+![Git Logo](icon/typescript.png)
 ![Git Logo](icon/javascript.png)
+![Git Logo](icon/solidity.png)
+![Git Logo](icon/web3js.png)
+![Git Logo](icon/tailwind.png)
 ![Git Logo](icon/node-js.png)
 ![Git Logo](icon/git.png)
 ![Git Logo](icon/github.png)
 ![Git Logo](icon/mongodb.png)
-![Git Logo](icon/mysql.png)
 ![Git Logo](icon/postman.png)
 ![Git Logo](icon/firebase.png)
+
+[![Joyddep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jds-23)](https://github.com/anuraghazra/github-readme-stats)
