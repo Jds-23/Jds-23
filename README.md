@@ -30,4 +30,8 @@ Languages and Tools:
 ![Git Logo](icon/postman.png)
 ![Git Logo](icon/firebase.png)
 
-[![Joyddep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jds-23)](https://github.com/anuraghazra/github-readme-stats)
+[![Joydeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jds-23)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jds-23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Joydeep's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jds23)](https://github.com/anuraghazra/github-readme-stats)
