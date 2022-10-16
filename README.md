@@ -10,7 +10,7 @@ Connect with me:
 
 Hello there 👋,
 
-I am an aspiring Front-end developer, Working in Web3.:mortar_board:
+A Blockchain Developer.:mortar_board:
 
 I have a passion for learning modern technology(specially in blockchain & web3), building real-world apps and code.:iphone:
 
